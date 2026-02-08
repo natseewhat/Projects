@@ -9,10 +9,10 @@ I'm a Data Science & Analytics student, recently graduated from the University o
 This repository serves as my academic portfolio, containing a collection of data science and analytics projects completed during my university studies. Additionally, this repository would also serve as a portfolio for personal projects done during my free time.
 
 # Skills 🛠️
-## Languages
+**Languages**
 - Python, SQL, Visual Basic for Application (VBA)
 
-## Tools & Tech
+**Tools & Tech**
 - Pandas, Numpy, Scikit-learn
 - Matplotlib, Seaborn
 - Relational Databases
