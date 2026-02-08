@@ -1,5 +1,6 @@
 # Hi, I'm Nathanael 👋
 🎓 BSc (Hons) Data Science & Analytics
+
 📍 Singapore
 
 # About Me
