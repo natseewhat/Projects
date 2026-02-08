@@ -4,7 +4,7 @@
 📍 Singapore
 
 # About Me
-I'm a Data Science & Analytics student, recently graduated from the University of Portsmouth in conjunction with Kaplan Higher Education Academy in December 2025. My academic work focuses on applying analytical and ML techniques to real-world datasets, supported with technical reporting. I aspire to have a career in the Data Analyst or Data Scientist field. 
+I'm a Data Science & Analytics gradute from the University of Portsmouth in conjunction with Kaplan Higher Education Academy. My academic work focuses on applying analytical and ML techniques to real-world datasets, supported with technical reporting. I aspire to have a career in the Data Analyst or Data Scientist field. 
 
 # About This Repository 📊
 This repository serves as my academic portfolio, containing a collection of data science and analytics projects completed during my university studies. Additionally, this repository would also serve as a portfolio for personal projects done during my free time.
